@@ -1,0 +1,45 @@
+boostrap
+head(nombre)
+paragraph(descripcion del restaurante)
+carousel(menu insignia)
+div(apetizers)
+div(platos fuertes)
+div(bebidas)
+div(postres)
+footer(contacto)
+platos insignia:
+-panini
+Emparedado a la elección del cliente el cual se sirve caliente.
+-risotto
+Base de arroz con la cual el cliente puede hacer grandes combinaciones, desde especias, hasta proteínas.
+-gelato
+Receta italiana con más de 20 sabores para deleite de los clientes.
+menu:
+aperitivos:
+-capotana siliciana
+ una mezcla deliciosa de verduras estofadas lentamente en aceite, perfectas para tomar sobre una buena tosta de pan o como acompañamientos de otros platos.
+-ensalada piamontesa
+ una sencilla ensalada a base de patata, muy similar a la ensaladilla rusa.
+-frittata cuatro quesos
+ la frittata cuatro quesos une el sabor de alguno de los quesos italianos más famosos, con la delicadeza del huevo cuajado poco a poco en el horno.
+
+platos fuertes:
+-pizza margarita
+Deliciosa pizza a base de harina con una deliciosa salsa de tomates naturales, acompañados de queso mozzarella y aceite de oliva y albahaca.
+-lasaña de carne a la bolognesa
+Un clásico de la cocina italiana, contiene salsa bolognesa, queso, exquisita pasta para lasagna y otros, los cuales saciarán su apetito.
+-vitello tonnato
+es un plato de origen italiano que en resumen, no es más que ternera y atún como bien indican las dos palabras que forman su nombre.
+	
+postres:
+-castagnole
+Deliciosas bolitas de harina frita con sabor a mantequilla, azúcar y otros componentes que hacen pensar que de una rosuqilla se tratara.
+-torta caprese
+La torta caprese es un típico postre napolitano, procedente como su nombre indica de la isla de Capri, un manjar de chocolate y almendras sin la adición de harina, crujiente por fuera pero húmeda y suave en su interior.
+-tiramisú
+una mezcla suave de crema de mascarpone con el cacao y el café, la cual resulta irresistible para terminar cualquier comida.
+
+bebidas:
+-Limonada
+-Jugo de naranja
+-Sangria
